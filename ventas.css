@@ -278,4 +278,25 @@ CELULARES
         font-size:15px;
     }
 
+   
+
+    .error{
+
+    display:block;
+
+    min-height:18px;
+
+    margin-top:5px;
+    margin-bottom:8px;
+
+    color:#ef4444;
+
+    font-size:14px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
 }
